@@ -1,0 +1,10 @@
+requests
+colorama
+pyfiglet
+pillow
+opencv-python
+numpy
+countrycode
+pytz
+python-geoip-python3
+python-geoip-geolite2
